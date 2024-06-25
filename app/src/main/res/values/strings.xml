@@ -1,3 +1,44 @@
 <resources>
-    <string name="app_name">2024JissenBooking</string>
+    <string name="app_name">家計簿</string>
+    <string name="editone">記録しましょう</string>
+    <string name="month_out">今月支出</string>
+    <string name="out">支出</string>
+    <string name="month_in">今月収入</string>
+    <string name="in">収入</string>
+    <string name="budget">予算剰余</string>
+    <string name="set_budget">予算配置</string>
+    <string name="see_excel">図表分析</string>
+    <string name="add_remark">備考を添付</string>
+    <string name="remark">備考</string>
+    <string name="ensure">確認</string>
+    <string name="cancel">キャンセル</string>
+    <string name="about">このアプリについて</string>
+    <string name="setting">設定</string>
+    <string name="history_record">消費記録</string>
+    <string name="account_info">消費詳細</string>
+    <string name="please_input_time">時間を入力してください(24時間制)</string>
+    <string name="please_search_info">検査情報を入力してください</string>
+    <string name="date_empty">この分類のデータがありません</string>
+    <string name="chart_info">請求書詳細</string>
+
+    <string name="about_appinfo">アプリ情報</string>
+    <string name="about_version">バージョン</string>
+    <string name="about_1">1.0</string>
+    <string name="about_app">アプリについて</string>
+    <string name="about_balabala">開発中</string>
+    <string name="about_developer">開発者</string>
+    <string name="about_me">About　me</string>
+    <string name="about_loc">Gifu University</string>
+    <string name="about_email">Email</string>
+    <string name="about_email2">yuanyufei200110@gmail.com</string>
+    <string name="about_code">コードについて</string>
+    <string name="about_codeinfo">Githubへアップロードすることが忘れないように…</string>
+    <string name="about_B">開発中~</string>
+    <string name="about_B2">開発中~~</string>
+
+    <string name="history_info">今月請求詳細</string>
+    <string name="clear_all">オールクリア</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="not_data">No　Information.</string>
 </resources>
