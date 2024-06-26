@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">家計簿</string>
-    <string name="editone">記録しましょう</string>
+    <string name="editone">New..</string>
     <string name="month_out">今月支出</string>
     <string name="out">支出</string>
     <string name="month_in">今月収入</string>
